@@ -1,0 +1,49 @@
+Item_name,Item_id,Group
+sugar,1,0
+lettuce,2,4
+pet items,3,1
+baby items,4,2
+waffles,5,2
+poultry,6,0
+sandwich bags,7,2
+butter,8,1
+soda,9,0
+carrots,10,5
+cereals,11,2
+shampoo,12,2
+bagels,13,0
+eggs,14,1
+aluminum foil,15,2
+milk,16,1
+beef,17,0
+laundry detergent,18,1
+shaving cream,19,2
+grapefruit,20,3
+cheeses,21,1
+frozen vegetables,22,1
+tea,23,0
+paper towels,24,2
+cherries,25,3
+spaghetti sauce,26,1
+dishwashing ,27,1
+canned vegetables,28,1
+hand soap,29,2
+flour,30,2
+pasta,31,2
+apples,32,3
+toilet paper,33,2
+tortillas,34,0
+soap,35,2
+ice cream,36,1
+dinner rolls,37,0
+juice,38,0
+sandwich loaves,39,0
+berries,40,3
+ketchup,41,1
+cucumbers,42,5
+coffee,43,0
+broccoli,44,5
+cauliflower,45,5
+bananas,46,3
+pork,47,0
+yogurt,48,1
